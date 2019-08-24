@@ -30,4 +30,4 @@ plot "yVStAirDrag.dat" w l, "yVStAirDrag.dat" w l, "aVStAirDrag.dat" w l
 
 ![alt text][airDrag]
 
-[airDrag]: https://github.com/CinnaKenToast/Gov-School-2019/airdrag/images/airDrag.png "Air Drag"
+[airDrag]: https://https://github.com/CinnaKenToast/Gov-School-2019/airdrag/images/airDrag.png "Air Drag"
