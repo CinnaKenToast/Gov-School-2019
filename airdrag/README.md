@@ -28,6 +28,6 @@ gnuplot
 plot "yVStAirDrag.dat" w l, "yVStAirDrag.dat" w l, "aVStAirDrag.dat" w l
 ```
 
-![alt text][airDrag]
+![][airDrag]
 
-[airDrag]: github.com/CinnaKenToast/Gov-School-2019/master/airdrag/images/airDrag.png "Air Drag"
+[airDrag]: images/airDrag.png "Air Drag"
