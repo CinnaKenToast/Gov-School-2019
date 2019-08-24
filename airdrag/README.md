@@ -12,14 +12,14 @@ gfortran freefallAirDrag.f95
 ```
 3. Input variables
 ```
- **'Enter a starting height:'**
+ **`Enter a starting height:`**
 100
- **'Enter an initial velocity'**
+ **`Enter an initial velocity`**
 0
- **'Enter a time step'**
+ **`Enter a time step`**
 0.01
- **'The object hit the ground in    5.1799999999999340       seconds.'**
- **'The impact speed was    30.748727833417860       m/s.'**
+ **`The object hit the ground in    5.1799999999999340       seconds.`**
+ **`The impact speed was    30.748727833417860       m/s.`**
 ```
 4. Plot points
 ```
