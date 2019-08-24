@@ -1,6 +1,9 @@
 # Free Fall Assignment
+The assignment was to model a ball in free fall using Euler's method, modified Euler's method, and midpoint method.
+Input the starting height, initial velocity, and time step for the ball. The program will calculate the time and impact speed of the ball.
+The program will also generate data points for the position, velocity, and acceleration.
 
-How to run program with Linux
+### How to run program with Linux
 
 1. Compile program
 ```
