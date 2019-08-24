@@ -28,6 +28,11 @@ gnuplot
 plot "yVStAirDrag.dat" w l, "yVStAirDrag.dat" w l, "aVStAirDrag.dat" w l
 ```
 
+Results for free fall with air drag
 ![][airDrag]
+Results for free fall with air drag calculated numerically
+![][airDragNumerical]
 
 [airDrag]: images/airDrag.png "Air Drag"
+[airDragNumerical]: images/airDrag.png "Air Drag Numerical"
+
